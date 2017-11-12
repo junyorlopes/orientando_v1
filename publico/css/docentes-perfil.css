@@ -1,0 +1,101 @@
+html, body {
+    font-family: "Century Gothic";
+    background-color: #e0e0e0;
+    color: #23527c;
+    height: 100%;
+}
+
+.btn-back {
+    margin-top: 10px;
+    font-weight: bold;
+    color: #23527c;
+    text-decoration: none;
+}
+
+.btn-link:hover {
+    color: #23527c;  
+}
+
+.btn-link:checked {
+    color: #23527c;
+}
+
+.img-perfil {
+    margin-top: 5px;
+    width: 120px;
+    height: 120px;
+}
+
+.img-perfil-fundo {
+    background-color: #676a6c;
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+}
+
+.navbar-inverse {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #fff;
+    font-weight: bold;
+    font-size: 16px;
+    border-color: #fff;
+    color: #1f3647;
+}
+
+#bs-example-navbar-collapse-1 {
+    background-color: #FFF;
+}
+
+.navbar-inverse .navbar-brand {
+    color: #1f3647;
+    font-size: 20px;
+}
+
+.navbar-inverse:hover .navbar-brand:hover {
+    color: #676a6c;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    color: #1f3647;
+}
+
+.navbar-inverse:hover .navbar-nav:hover > li:hover > a:hover {
+    color: #676a6c;
+}
+
+.text-one {
+    padding-bottom: 20px;
+    padding-right: 10%;
+    padding-left: 10%; 
+    padding-top: 100px;
+    height: auto; 
+    width: 100%;
+    background-color: #d85050;
+    color: #FFF;
+    font-family: "Century Gothic";
+}
+
+.text-second {
+    padding-bottom: 20px;
+    padding-right: 10%;
+    padding-left: 10%; 
+    padding-top: 40px;
+    height: auto; 
+    width: 100%;
+    background-color: #e0e0e0;
+    color: #1f3647;
+    font-family: "Century Gothic";
+}
+
+.text-footer {
+    padding-bottom: 10%;
+    padding-right: 10%;
+    padding-left: 10%; 
+    padding-top: 10%;
+    height: auto; 
+    width: 100%;
+    background-color: #FFF;
+    color: #1f3647;
+    font-family: "Century Gothic";
+}

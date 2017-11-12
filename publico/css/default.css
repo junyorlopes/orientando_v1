@@ -1,0 +1,151 @@
+/* Públuco */
+html, body {
+    font-family: "open sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background-color: #e3e3e3;
+    color: #676a6c;
+    height: 100%;
+}
+
+.navbar-inverse {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #1f3647;
+    font-weight: bold;
+    font-size: 16px;
+    border-color: #1f3647;
+}
+
+#bs-example-navbar-collapse-1 {
+    background-color: #1f3647;
+}
+
+.navbar-inverse .navbar-brand {
+    color: #fff;
+    font-size: 20px;
+}
+
+.navbar-inverse:hover .navbar-brand:hover {
+    color: #e3e3e3;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    color: #fff;
+}
+
+.navbar-inverse:hover .navbar-nav:hover > li:hover > a:hover {
+    color: #e3e3e3;
+}
+
+.panel-primary {
+    border-color: #d85050;
+}
+
+.panel-primary > .panel-heading {
+    background-color: #d85050;
+    border-color: #d85050;
+}
+
+.panel-success {
+    border-color: #ffc044;
+}
+
+.panel-success > .panel-heading {
+    background-color: #ffc044;
+    border-color: #ffc044;
+}
+
+.color-title {
+    color: #fff;
+}
+
+#gray-bar {
+    height: 140px; 
+    width: 5px;
+}
+
+.text-one {
+    padding-bottom: 3%;
+    padding-right: 10%;
+    padding-left: 10%; 
+    padding-top: 10%;
+    height: auto; 
+    width: 100%;
+    background-color: #fff;
+    color: #2d2d2d;
+    font-family: "Arial";
+}
+
+.text-second {
+    padding-bottom: 3%;
+    padding-right: 10%;
+    padding-left: 10%; 
+    padding-top: 3%;
+    height: auto; 
+    width: 100%;
+    background-color: #c9ffd7;
+    color: #2d2d2d;
+    font-family: "Arial";
+}
+
+.text-third {
+    padding-bottom: 3%;
+    padding-right: 10%;
+    padding-left: 10%; 
+    padding-top: 3%;
+    height: 100%; 
+    width: 100%;
+    background-image: url("../..//imagens/background.png");
+    color: #2d2d2d;
+    font-family: "Arial";
+}
+
+.break-title {
+    padding-top: 5%;
+    font-size: 20px;
+}
+
+.break-text {
+    padding-top: 3%;
+}
+
+.text-footer {
+    padding-bottom: 10%;
+    padding-right: 10%;
+    padding-left: 10%; 
+    padding-top: 10%;
+    height: auto; 
+    width: 100%;
+    background-color: #1f3647;
+    color: #FFF;
+    font-family: "Century Gothic";
+}
+
+.img-perfil {
+    margin-top: 5px;
+    width: 120px;
+    height: 120px;
+}
+
+.img-perfil-fundo {
+    background-color: #676a6c;
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+}
+
+.breadcrumb {
+    background-color: #fff;
+}
+
+#color {
+    color: #1f3647;
+}
+
+.panel-warning {
+    border-color: #37ad3f;
+}
+
+.panel-warning > .panel-heading {
+    background-color: #37ad3f;
+    border-color: #37ad3f;
+}
